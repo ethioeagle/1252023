@@ -21,3 +21,53 @@ single subject.
 • Data Mart draws data from only a few sources. These sources may be
 central Data warehouse, internal operational systems, or external
 data sources.
+What is Data Mart?
+• A Data Mart is an index and extraction system. It is an important subset of a
+data warehouse.
+• It is subject-oriented, and it is designed to meet the needs of a specific group
+of users.
+• When compared Data Mart vs Data Warehouse, Data marts are fast and easy
+to use, as they make use of small amounts of data.
+
+Data Warehouse vs Data Mart
+KEY DIFFERENCE
+Data Warehouse Data Mart
+• Large repository of data collected from different
+sources
+• Only subtype of a data warehouse
+• Focused on all departments in an organization • Focuses on a specific group
+• Designing process is complicated • Process is easy to design
+• Takes a long time for data handling • Takes a short time for data handling
+• Size range is 100 GB to 1 TB+ • Size is less than 100 GB
+• Implementation process takes 1 month to 1 year • Takes a few months to complete the
+implementation process
+
+/*
+Differences between Data Warehouse and Data
+Mart
+Parameter Data Warehouse Data Mart
+Definition A Data Warehouse is a large repository of
+data collected from different organizations or
+departments within a corporation.
+A data mart is an only subtype of a
+Data Warehouse. It is designed to
+meet the need of a certain user
+group.
+Usage It helps to take a strategic decision. It helps to take tactical decisions for
+the business.
+Objective The main objective of Data Warehouse is to
+provide an integrated environment and
+coherent picture of the business at a point in
+time.
+A data mart mostly used in a
+business division at the department
+level.
+Designing The designing process of Data Warehouse is
+quite difficult.
+The designing process of Data Mart
+is easy.
+May or may not use in a dimensional model.
+However, it can feed dimensional models.
+It is built focused on a dimensional
+model using a start schema.
+*/
