@@ -13,3 +13,11 @@ checked, cleansed and then integrated with Data warehouse system.
 • Data warehouse used a very fast computer system having large storage
 capacity.
 • This tool can answer any complex queries relating data.
+
+Data Mart
+What is Data Mart?
+• A data mart is a simple form of a Data Warehouse. It is focused on a
+single subject.
+• Data Mart draws data from only a few sources. These sources may be
+central Data warehouse, internal operational systems, or external
+data sources.
